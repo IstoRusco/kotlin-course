@@ -143,4 +143,4 @@ lateinit var hackathonGuest: String = "Специальный гость"
 val maxGuests: String = "Количество гостей"
 
 // Количество часов, отведенное каждой команде для работы над проектом.
-val timeForTeams: String = "Время для команд"
+val timeForTeams: Int = 1
