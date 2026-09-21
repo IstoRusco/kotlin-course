@@ -10,12 +10,12 @@ fun main()
     val coefficient: Double = 0.73
     val baseCoeff: Double = 0.5
 
-    val finalCoeff = Double = coefficient ?: baseCoeff
+    val finalCoeff = coefficient ?: baseCoeff
     val resultIntesive = baseIntensity * finalCoeff
 
     println(resultIntesive)
 
-// Задача 2
+// Задача
 //Контекст: Клиент оплачивает доставку груза. К стоимости доставки добавляется страховка на груз, которая составляет 0,5% от его стоимости. В случае, если стоимость не указана, то берётся стандартная стоимость в $50
 //Задача: Рассчитать полную стоимость доставки.
 
