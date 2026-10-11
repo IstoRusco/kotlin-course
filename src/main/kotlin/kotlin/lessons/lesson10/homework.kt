@@ -9,7 +9,7 @@ fun main() {
 
     // Задание 2. Словарь Float -> Double
     val dictionary2 = mapOf(
-        1.5f to 10.5,
+        7.5f to 10.5,
         2.5f to 20.5,
         3.5f to 30.5
     )

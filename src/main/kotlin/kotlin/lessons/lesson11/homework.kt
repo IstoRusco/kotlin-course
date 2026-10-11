@@ -5,7 +5,7 @@ fun main() {
     doSomething()
 
 // Задание 2
-    println(sum(5, 10))
+    println(sum(7, 10))
 
 // Задание 3
     printText("Привет, Kotlin!")
