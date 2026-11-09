@@ -1,6 +1,6 @@
 package kotlin.lessons.lesson17
 
-abstract class BaseClass(
+class AAA (
 // 1. Это private-поле родителя.
 // В main() доступно другое, одноимённое public-свойство ChildrenClass.
     private val privateVal: String,
@@ -102,4 +102,5 @@ class ChildrenClass(
     override fun generate(): String {
         return "Это генерация из дочернего класса"
     }
+    )
 }
